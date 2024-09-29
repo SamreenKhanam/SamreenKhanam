@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Samreen Khanam</h1>
+<h1 align="center">Hi, I'm Samreen Khanam 👋</h1>
 <h3 align="center"> I am currently working as an AWS CLOUD intern at Exlearn Technologies.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 As a motivated Final Year B.Tech CSE student, I am working hard to improve my AWS and DevOps knowledge while learning web development. I have a never-ending passion for cutting-edge technologies and thrive in dynamic environments that value innovation. My recent stint as a data science intern gave me invaluable hands-on experience, solidifying my understanding of data analytics and problem-solving. I am eager to leverage my broad skill set and passion for technology, and I am ready to take on new challenges and contribute meaningfully to any team or project.
-Open to networking opportunities, collaborations, and discussions on AWS DevOps, web development, and data science topics. Let's connect and explore potential synergies!**
+Open to networking opportunities, collaborations, and discussions on AWS DevOps, web development, and data science topics. Let's connect and explore potential synergies!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
