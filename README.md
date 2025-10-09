@@ -1,92 +1,16 @@
-<!-- Optional Aesthetic Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/zvWTUVu.gif" width="100%" alt="Welcome Banner" />
-</p>
+<h1 align="center">Hi, I'm Samreen Khanam 👋</h1>
+<h3 align="center"> I am currently working as an AWS CLOUD intern at Exlearn Technologies.</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+- 🔭 As a motivated Final Year B.Tech CSE student, I am working hard to improve my AWS and DevOps knowledge while learning web development. I have a never-ending passion for cutting-edge technologies and thrive in dynamic environments that value innovation. My recent stint as a data science intern gave me invaluable hands-on experience, solidifying my understanding of data analytics and problem-solving. I am eager to leverage my broad skill set and passion for technology, and I am ready to take on new challenges and contribute meaningfully to any team or project.
+Open to networking opportunities, collaborations, and discussions on AWS DevOps, web development, and data science topics. Let's connect and explore potential synergies!
 
-<h1 align="center">Hi there, I'm <span style="color:#FF69B4;">Samreen Khanam</span> 👩‍💻</h1>
-<h3 align="center">Support Technician (Azure DevOps) @ Henson Group | Cloud & DevOps Enthusiast ☁️</h3>
-
----
-
-### 🌸 About Me
-
-🎓 Final Year B.Tech CSE Student  
-💼 Currently working as a **Support Technician – Azure DevOps** at **Henson Group**  
-☁️ Passionate about cloud computing, automation, and DevOps practices  
-🧠 Always eager to explore emerging technologies and deliver scalable solutions  
-💬 I enjoy collaborating on real-world projects, technical discussions, and open-source development  
-🌱 Currently deep-diving into **Azure**, **CI/CD pipelines**, and **Infrastructure as Code (IaC)**
-
----
-
-### 🌐 Connect With Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-  </a>
+<a href="https://twitter.com/@samreenkhanam3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samreenkhanam3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samreen khanam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samreen khanam" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-### 🧰 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-CA2133?style=flat&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samreenkhanam&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samreenkhanam&theme=radical" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreenkhanam&layout=compact&theme=radical" width="60%" />
-</p>
-
----
-
-### 💬 Let's Collaborate On:
-
-- Azure DevOps pipelines and automation  
-- CI/CD workflows  
-- Infrastructure as Code (IaC) using Terraform or ARM  
-- Technical blogging, cloud advocacy, and documentation  
-- Cloud-native projects or open source
-
----
-
-### 🌈 A Few Fun Facts
-
-- 🎨 I enjoy adding a touch of design to my tech projects  
-- 📚 I'm an avid learner and note-taker — Notion is my second brain!  
-- 🌸 Love empowering others through knowledge sharing and community engagement  
-- 🧘 I believe in balance — clear code, calm mind 💖
-
----
-
-### ✨ Closing Note
-
-_Thank you for visiting! Let's connect, grow, and build in the cloud together ☁️_
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Happy+Coding!;Keep+Growing!;DevOps+is+Love!&center=true&color=FF69B4&width=380&height=45" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samreenkhanam&show_icons=true&locale=en&layout=compact" alt="samreenkhanam" /></p>
